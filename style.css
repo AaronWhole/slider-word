@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap");
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #596e79;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+/*# sourceMappingURL=style.css.map */
